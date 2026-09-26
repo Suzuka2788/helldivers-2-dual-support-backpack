@@ -4,7 +4,7 @@ Carry a second supported support weapon in your backpack slot in Helldivers 2. P
 
 ## Download and install
 
-Download the latest ZIP from [Releases](https://github.com/Suzuka2788/helldivers-2-dual-support-backpack/releases/latest). The current version is **v1.0.1**. Requires **Bingus Shared Loader v15 or newer (API 1)**. Quit the game, disable the previous AIO and five separate feature mods, install the ZIP, deploy, and restart. Both AIO versions use the same mod GUID; do not enable them together. **F10 is not required.**
+Download the latest ZIP from [Releases](https://github.com/Suzuka2788/helldivers-2-dual-support-backpack/releases/latest). The current version is **v1.0.1**. Requires **Bingus Shared Loader v15 or newer (API 1)**. Quit the game, install the ZIP, deploy, and restart. Both AIO versions use the same mod GUID; do not enable them together. 
 
 ## Current limitations
 
